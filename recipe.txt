@@ -5,4 +5,8 @@ Wellcome to the Recipe.Here all the recipes could be found
 
 3. Ice cream
 
+4. Beans
+5. Pizza
+
 done my changes!
+
